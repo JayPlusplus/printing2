@@ -21,21 +21,18 @@ public class Jay {
 		System.out.println("Jay's full name is ?");
 		System.out.println("Jinpeng Wu");
 	
-		int x = 2017;
-		int y = 1986;
+		int a = 2017;
+		int b = 1986;
 	    System.out.println("Jay's age");
-		System.out.println(x-y);	
+		System.out.println(a-b);	
 		
 		
 		
 		
 		
 		/* Debug assignment*/
-		package printing;
 
-		public class Debug {
 
-			public static void main(String[] args) {
 				// TODO Auto-generated method stub
 				double x, y;
 				
@@ -45,9 +42,6 @@ public class Jay {
 				System.out.println("pi is approximately " +x);
 				System.out.println("My GPA was" +y);
 				
-			}
-
-		}
 
 	}
 
