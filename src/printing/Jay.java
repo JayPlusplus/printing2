@@ -95,7 +95,17 @@ public class Jay {
 				 System.out.println("\n");
 				 System.out.println("TOTAL: \t 12 \t $4,400.00") ;
 
+				
+		   // Special Characters
 				 
+					    String message1, message2;
+					    
+					    message1 = "\\/\\/\\/\\/\\/\\r\\t\\b";
+					    message2 = "\";";
+					    
+					    System.out.println(message1 + message2);
+					            
+					
 	}
 
 }
