@@ -1,5 +1,7 @@
 package printing;
 
+import java.util.Scanner;
+
 public class Jay {
 
 	public static void main(String[] args) {
@@ -63,6 +65,27 @@ public class Jay {
 				 z = x * y;
 
 				 System.out.println("The product is " + z);
+				 
+		/* getting and storing user input */
+				
+				 /* Input String: "P Sherman 42 Wallaby Way Sydney" *
+				  * Variables: firstInitial,lastName, 
+				  * *houseNumber,streetName,streetType,city*/
+				 
+				 Scanner keyboard = new Scanner(System.in);
+				 
+				 System.out.println("enter your name");
+				 
+				 String name = keyboard.nextLine();
+				
+			 
+				 
+				 System.out.println("Hello " + name);
+				 
+				 System.out.println("P Sherman 42 Wallaby Way Sydney");
+				 
+		
+				 
 	}
 
 }
