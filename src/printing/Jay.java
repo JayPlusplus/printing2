@@ -14,8 +14,17 @@ public class Jay {
 		System.out.println("Account Balance:  $1,500.00");
 		System.out.println("Thank you for banking with us");
 		System.out.println("Have a coffee day");
+
 		
-		
+		//make a small program for yourself assignment
+		// Jay's full name is Jinpeng Wu, born in 1986
+		System.out.println("Jay's full name is ?");
+		System.out.println("Jinpeng Wu");
+	
+		int x = 2017;
+		int y = 1986;
+	    System.out.println("Jay's age");
+		System.out.println(x-y);	
 	}
 
 }
