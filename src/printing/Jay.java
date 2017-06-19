@@ -33,14 +33,14 @@ public class Jay {
 		/* Debug assignment*/
 
 
-				// TODO Auto-generated method stub
+				/* TODO Auto-generated method stub
 				double x, y;
 				
 				x = 3.1415;
 				y = 3.64;
 				
 				System.out.println("pi is approximately " +x);
-				System.out.println("My GPA was" +y);
+				System.out.println("My GPA was" +y);*/
 				
 				
 		/* Math2 assignment*/
@@ -51,6 +51,18 @@ public class Jay {
 				System.out.println(mynumber);
 				System.out.println(myothernumber);
 
+				
+		/* change program assignment */
+				
+				 int x;
+				 double y, z;
+				 
+				 x = 5;
+				 y = 9.5;
+				 
+				 z = x * y;
+
+				 System.out.println("The product is " + z);
 	}
 
 }
