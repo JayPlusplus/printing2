@@ -42,6 +42,14 @@ public class Jay {
 				System.out.println("pi is approximately " +x);
 				System.out.println("My GPA was" +y);
 				
+				
+		/* Math2 assignment*/
+				
+				int mynumber = 2;
+				double myothernumber = 1.7938;
+				
+				System.out.println(mynumber);
+				System.out.println(myothernumber);
 
 	}
 
