@@ -66,11 +66,11 @@ public class Jay {
 
 				 System.out.println("The product is " + z);
 				 
-		/* getting and storing user input */
+		/* getting and storing user input 
 				
-				 /* Input String: "P Sherman 42 Wallaby Way Sydney" *
+				 * Input String: "P Sherman 42 Wallaby Way Sydney" *
 				  * Variables: firstInitial,lastName, 
-				  * *houseNumber,streetName,streetType,city*/
+				  * *houseNumber,streetName,streetType,city
 				 
 				 Scanner keyboard = new Scanner(System.in);
 				 
@@ -82,9 +82,19 @@ public class Jay {
 				 
 				 System.out.println("Hello " + name);
 				 
-				 System.out.println("P Sherman 42 Wallaby Way Sydney");
+				 System.out.println("P Sherman 42 Wallaby Way Sydney");*/
+				
 				 
 		
+				 
+			//Escape sequences
+				 
+				 System.out.println("Cost \t Quantity \t Total");
+				 System.out.println("$1000.00 \t 4 \t $4000.00");
+				 System.out.println(" $50.00 \t 8 \t $400.00");
+				 System.out.println("\n");
+				 System.out.println("TOTAL: \t 12 \t $4,400.00") ;
+
 				 
 	}
 
